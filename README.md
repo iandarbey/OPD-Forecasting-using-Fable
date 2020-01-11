@@ -1,7 +1,6 @@
 # OPD Forecasting using Fable
  Updated OPD forecasting using Fable package - forecast is depreciated.
 
-This is the code from the OPD forecasting project. It includes options to generate neural network predictions as opposed to the ARIMA modelling.
 
 Update August 2019
 Now includes plotting with ribbon for forecast values, red for referrals, blue for overall capacity delivered.
